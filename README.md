@@ -1,2 +1,46 @@
 # Filtrando-elementos-por-categor-as
 FILTRAR elementos por Categorías con HTML, CSS y JS
+# Filtrando elementos por categorías
+
+Este es un proyecto de muestra que muestra cómo filtrar elementos por categorías utilizando HTML, CSS y JavaScript con jQuery.
+
+## Características
+
+- Filtrado de productos por categoría.
+- Ventana modal con detalles del producto.
+- Diseño minimalista y responsive.
+- Facilidad de uso.
+
+## Uso
+
+1. Descarga o clona este repositorio en tu computadora.
+2. Abre el archivo `index.html` en tu navegador web.
+3. Escoge una categoría haciendo clic en uno de los enlaces en la lista de categorías.
+4. Haz clic en un producto para ver sus detalles en una ventana modal.
+
+## Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+
+## Capturas de Pantalla
+
+![Captura de Pantalla 1](screenshots/screenshot1.png)
+
+![Captura de Pantalla 2](screenshots/screenshot2.png)
+
+## Contribuir
+
+Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar pull requests.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+**Nota:** Este es un proyecto de muestra y no representa un producto o sitio web real. Los detalles de productos, imágenes y descripciones son ficticios.
+
+¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
