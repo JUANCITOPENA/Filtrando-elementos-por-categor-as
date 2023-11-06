@@ -1,6 +1,6 @@
 ## Agradecimientos y Contribución
 
-Este proyecto se basa en el tutorial de **CodyTron**, un creador de contenido en YouTube. Agradecemos a CodyTron por proporcionar un tutorial detallado sobre cómo crear un filtro de elementos por categorías. Puedes encontrar el video tutorial original en su [canal de YouTube](https://www.youtube.com/watch?v=UH7Xtn4J5ZM).
+Este proyecto se basa en el tutorial de **CodyTron**, un creador de contenido en YouTube. Agradecemos a **CodyTron** por proporcionar un tutorial detallado sobre cómo crear un filtro de elementos por categorías. Puedes encontrar el video tutorial original en su [canal de YouTube](https://www.youtube.com/watch?v=UH7Xtn4J5ZM).
 
 Hemos modificado y adaptado el código del tutorial original para crear este proyecto. Agradecemos a **CodyTron** por compartir su conocimiento y recursos.
 
