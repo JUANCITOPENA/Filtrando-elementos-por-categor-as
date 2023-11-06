@@ -12,6 +12,8 @@ Si deseas obtener una copia de este proyecto, puedes descargarlo [aquí](https:/
 
 Este es un proyecto de muestra que muestra cómo filtrar elementos por categorías utilizando HTML, CSS y JavaScript con jQuery.
 
+# Usa la Pagina Web desde: [aquí](https://juancitopena.github.io/Filtrando-elementos-por-categor-as/#).
+
 ## 🚧Características
 
 - Filtrado de productos por categoría.
