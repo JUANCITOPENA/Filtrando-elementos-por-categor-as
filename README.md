@@ -1,5 +1,13 @@
-# Filtrando-elementos-por-categor-as
-FILTRAR elementos por Categorías con HTML, CSS y JS
+## Agradecimientos y Contribución
+
+Este proyecto se basa en el tutorial de CodyTron, un creador de contenido en YouTube. Agradecemos a CodyTron por proporcionar un tutorial detallado sobre cómo crear un filtro de elementos por categorías. Puedes encontrar el video tutorial original en su [canal de YouTube](https://www.youtube.com/watch?v=UH7Xtn4J5ZM).
+
+Hemos modificado y adaptado el código del tutorial original para crear este proyecto. Agradecemos a CodyTron por compartir su conocimiento y recursos.
+
+## Descargar el Proyecto
+
+Si deseas obtener una copia de este proyecto, puedes descargarlo [aquí](https://www.mediafire.com/file/cc98g19amm721s6/Filtrando_elemetos.rar).
+
 # Filtrando elementos por categorías
 
 Este es un proyecto de muestra que muestra cómo filtrar elementos por categorías utilizando HTML, CSS y JavaScript con jQuery.
