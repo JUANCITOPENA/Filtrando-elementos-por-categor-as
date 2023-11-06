@@ -35,9 +35,13 @@ Este es un proyecto de muestra que muestra cómo filtrar elementos por categorí
 
 ## 🌍Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/screenshot1.png)
+![Captura de Pantalla 1](pantalla1.png)
 
-![Captura de Pantalla 2](screenshots/screenshot2.png)
+![Captura de Pantalla 2](pantalla2.png)
+
+![Captura de Pantalla 1](pantalla3.png)
+
+![Captura de Pantalla 2](pantalla4.png)
 
 ## 👍Contribuir
 
